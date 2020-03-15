@@ -1,3 +1,4 @@
+ReportingCountry,TotalConfirmedCases,TotalConfirmedNewcases,TotalDeaths,TotalNewDeaths,TransmissionClassification,DaysSinceLastReportedCase
 RepublicofKorea,7869,114,66,6,Local transmission,0
 Japan,620,52,15,3,Local transmission,0
 Singapore,178,12,0,0,Local transmission,0
@@ -112,7 +113,7 @@ Senegal,4,0,0,0,Imported cases only,7
 BurkinaFaso,2,0,0,0,Imported cases only,1
 Cameroon,2,0,0,0,Local transmission,5
 Nigeria,2,0,0,0,Imported cases only,3
-Côted’Ivoire,1,1,0,0,Imported cases only,0
+CÃ´tedâ€™Ivoire,1,1,0,0,Imported cases only,0
 DemocraticRepublicoftheCongo,1,0,0,0,Imported cases only,1
 Togo,1,0,0,0,Imported cases only,5
 Diamond Princess,696,0,7,0,Local transmission,4
