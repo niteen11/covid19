@@ -1,3 +1,28 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@niteen11 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+niteen11
+/
+covid19
+1
+00
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+covid19/COVID19.csv
+@niteen11 niteen11 Update COVID19.csv
+9bb9646 now
+152 lines (152 sloc)  5.72 KB
+  
+We can make this file beautiful and searchable if this error is corrected: It looks like row 93 should actually have 7 columns, instead of 8. in line 92.
 Hubei,5917,8,2,10,67781,3056
 Guangdong,11346,3,1,0,1356,8
 Henan,9605,1,0,0,1273,22
@@ -90,11 +115,11 @@ Andorra,1,0,0,0,Imported cases only,9
 Armenia,1,0,0,0,Imported cases only,10
 HolySee,1,0,0,0,Underinvestigation,6
 Liechtenstein,1,0,0,0,Imported cases only,6
-Monaco,1,0,0,0,Under,investigation,11
+Monaco,1,0,0,0,Under investigation,11
 Turkey,1,1,0,0,Imported cases only,0,
 Ukraine,1,0,0,0,Imported cases only,8
 FaroeIslands,2,0,0,0,Imported cases only,3
-Gibraltar,1,0,0,0,Under,investigation,8
+Gibraltar,1,0,0,0,Under investigation,8
 Guernsey,1,0,0,0,Imported cases only,2
 India,73,13,,0,0,Local transmission,0
 Thailand,70,11,1,0,Local transmission,0
@@ -138,8 +163,8 @@ Honduras,2,2,0,0,Imported cases only,0
 Jamaica,1,0,0,0,Imported cases only,1
 FrenchGuiana,5,0,0,0,Imported cases only,4
 Martinique,3,0,0,0,Imported cases only,1
-SaintMartin,2,0,0,0,Under,investigation,9
-SaintBarthelemy,1,0,0,0,Under,investigation,9
+SaintMartin,2,0,0,0,Under investigation,9
+SaintBarthelemy,1,0,0,0,Under investigation,9
 Algeria,25,5,1,1,Local transmission,0
 SouthAfrica,13,6,0,0,Imported cases only,0
 Senegal,4,0,0,0,Imported cases only,7
