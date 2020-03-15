@@ -77,10 +77,10 @@ Estonia,13,0,0,0,Imported cases only,1
 Hungary,13,0,0,0,Local transmission,1
 Belarus,12,3,0,0,Local transmission,0
 Albania,10,0,0,0,Local transmission,1
-Slovakia,10,3,0,0,Local transmission,0,
+Slovakia,10,3,0,0,Local transmission,0
 Azerbaijan,9,0,0,0,Imported cases only,5
 Bulgaria,7,1,1,1,Local transmission,0
-NorthMacedonia,7,0,0,0,Local transmission2,
+NorthMacedonia,7,0,0,0,Local transmission, 2
 Cyprus,6,4,0,0,Imported cases only,0,
 Malta,6,2,0,,0,Imported cases only,0
 BosniaAndHerzegovina,4,0,0,0,Local transmission,1
@@ -104,7 +104,7 @@ Bangladesh,3,0,0,0,Local transmission,3
 Sri,Lanka,2,1,0,,0,Imported cases only,0
 Bhutan,1,0,0,0,Imported cases only,6
 Nepal,1,0,0,0,Imported cases only,48
-Iran(Islamic,Republic,of),9000,958,354,63,Local transmission,0
+Iran(IslamicRepublicof),9000,958,354,63,Local transmission,0
 Qatar,262,238,0,0,Local transmission,0
 Bahrain,189,79,,0,0,Local transmission,0
 Kuwait,80,11,0,0,Local transmission,0
