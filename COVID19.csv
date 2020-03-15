@@ -81,7 +81,7 @@ Slovakia,10,3,0,0,Local transmission,0
 Azerbaijan,9,0,0,0,Imported cases only,5
 Bulgaria,7,1,1,1,Local transmission,0
 NorthMacedonia,7,0,0,0,Local transmission, 2
-Cyprus,6,4,0,0,Imported cases only,0,
+Cyprus,6,4,0,0,Imported cases only,0
 Malta,6,2,0,,0,Imported cases only,0
 BosniaAndHerzegovina,4,0,0,0,Local transmission,1
 RepublicOfMoldova,4,1,0,,0,Imported cases only,0
@@ -93,7 +93,7 @@ Liechtenstein,1,0,0,0,Imported cases only,6
 Monaco,1,0,0,0,Under,investigation,11
 Turkey,1,1,0,0,Imported cases only,0,
 Ukraine,1,0,0,0,Imported cases only,8
-FaroeIslands,2,0,0,0,Imported cases only,3,
+FaroeIslands,2,0,0,0,Imported cases only,3
 Gibraltar,1,0,0,0,Under,investigation,8
 Guernsey,1,0,0,0,Imported cases only,2
 India,73,13,,0,0,Local transmission,0
